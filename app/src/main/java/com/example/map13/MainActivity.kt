@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //Just comment
-
-    //Just second comment
+    //Just another second comment
 }
